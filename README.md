@@ -1,5 +1,5 @@
 # CODTECH-Task-2
-## WEATHER FORECAST APP##
+## WEATHER FORECAST APP
 
 **Name:** Syamtan Sai Yadav Bontha
 **Company:** CODTECH IT SOLUTIONS
