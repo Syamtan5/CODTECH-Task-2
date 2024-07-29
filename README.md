@@ -5,6 +5,7 @@
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT08DS5312
 **Domain:** Web Development
+**Mentor:** Muzammil Ahmed
 **Duration:** from JULY 20th, 2024 to AUGUST 20th, 2024.
 
 # Weather Forecast App
@@ -15,7 +16,7 @@
 Weather Forecast App
 
 ### Description:
-A simple weather forecast app that allows users to get current weather information by entering a city name. The app fetches data from the OpenWeatherMap API and displays it in a user-friendly interface.
+A simple weather forecast app allows users to get current weather information by entering a city name. The app fetches data from the OpenWeatherMap API and displays it in a user-friendly interface.
 
 ## Project Structure
 
